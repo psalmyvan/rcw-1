@@ -81,7 +81,7 @@ h3 {
 
 .eve {
   overflow: auto;
-  height: 50vh;
+  height: 60vh;
 }
 .eve-list{
   color: rgb(56, 56, 56);
@@ -90,7 +90,7 @@ h3 {
   margin-left: 2vw;
   margin-bottom: 2vh;
   width: 16vw;
-  height: 18vh;
+  height: 16vh;
   border-radius: 20px;
   
 }
@@ -102,6 +102,9 @@ h3 {
 }
 .eve-list:nth-child(3) {
   background-color: #5ebcff;
+}
+.eve-list:nth-child(4) {
+  background-color: #ff635e;
 }
 
 .eve-list:hover{
